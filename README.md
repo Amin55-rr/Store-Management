@@ -138,18 +138,6 @@ Then open:
 - `templates/`: Twig views
 - `config/packages/security.yaml`: security and access configuration
 
-## GitHub Publishing
-
-If not done yet:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - store management"
-git branch -M main
-git remote add origin <GITHUB_URL>
-git push -u origin main
-```
 
 ## Authors
 
